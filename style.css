@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background: linear-gradient(#ffadeb 0%, #aedbfc 100%)
+}
+.nav-header{
+    position:sticky;
+}
